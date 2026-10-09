@@ -44,7 +44,7 @@ To run it:
 
 ## What I Learned
 
-[One or two sentences on what you learned, such as using digital inputs and outputs, or wiring a button with a pull-down resistor.]
+This was my first time using an Arudino so I learned a lot about how they operate, mounting one to a board and using it with a breadboard. Furthermore this is my first real experience with software to hardware interaction which was super fun and inspiring. 
 
 ## Author
 
