@@ -4,11 +4,11 @@ A starship control panel built with an Arduino UNO R4 WiFi. A green LED shows th
 
 Based on Project 2 from the Arduino Starter Kit R4 project book.
 
-![Spaceship Interface circuit](Project2-Spaceship-Interface/photo.jpg)
+![Spaceship Interface circuit](spaceship_Interface_Photo.jpg)
 
 ## Demo
 
-[Watch the demo video](Project2-Spaceship-Interface/demo.mp4)
+[Watch the demo video](spaceship_Interface_Demo.mov)
 
 ## Parts List
 
@@ -35,7 +35,7 @@ The sketch reads the button on a digital input pin. While the button is not pres
 
 ## Code
 
-The sketch is in [`Project2-Spaceship-Interface.ino`](Project2-Spaceship-Interface/Project2-Spaceship-Interface.ino).
+The sketch is in [`spaceship_Interface_code.ino`](spaceship_Interface_code.ino).
 
 To run it:
 1. Open the `.ino` file in the Arduino IDE.
