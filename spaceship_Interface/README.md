@@ -8,7 +8,7 @@ Based on Project 2 from the Arduino Starter Kit R4 project book.
 
 ## Demo
 
-[Watch the demo video](spaceship_Interface_Demo.mov)
+https://github.com/user-attachments/assets/1fb19048-ab05-4237-8d84-76545db795cb
 
 ## Parts List
 
